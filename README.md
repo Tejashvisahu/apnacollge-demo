@@ -2,4 +2,4 @@
 This is my first repository.
 <br>
 <b>
-<i>My name Tejashvi sahu.</i> </b>
+<i>My name Tejashvi.</i> </b>
